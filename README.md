@@ -11,3 +11,7 @@ Offers an introductory course on the basics of statistics, probability, and line
 - Axioms of Probability, Equally Likely Outcomes, Conditional Probability
 - Bayes Independence, Discrete Random Variables, Continuous Random Variables
 - Uniform, Normal Distrubutions, Joint Probabilities
+
+## Projects Included: 
+- Least Square: In this assignment we used real estate data to predict price using house age and to predict price using another feature.
+- NLP: In this assigmnet we used Berkeley Restaurant dataset to calculate joint probabilities for 5 sentences in the dataset.
